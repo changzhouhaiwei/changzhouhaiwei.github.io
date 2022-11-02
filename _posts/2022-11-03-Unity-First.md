@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Unity 入门精要"
-date:   2022-11-03 01:40:18 +0800
+date: 2022-05-12 11:40:18 +0800
 categories: Unity
 tags: Unity
 ---
@@ -9,7 +9,7 @@ tags: Unity
 * content
 {:toc}
 
-记录一下读这本书过程中自己还需要知道的细节。 这是海桅
+记录一下读这本书过程中自己还需要知道的细节。 这是海桅1212
 
 
 
