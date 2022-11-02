@@ -2,7 +2,7 @@
 layout: post
 title:  "Unity 入门精要"
 date: 2022-05-12 11:40:18 +0800
-categories: Unity
+categories: C#
 tags: Unity
 ---
 
@@ -27,6 +27,12 @@ tags: Unity
 /*
     var rm_a = /a*/.match(s)
 */
+```
+
+
+```c#
+	var ab = new GameObject();
+	ab.transform.position = new Vector3();
 ```
 
 ### 数字
