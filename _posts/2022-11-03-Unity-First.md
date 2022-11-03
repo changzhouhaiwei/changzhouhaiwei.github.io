@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "JavaScript 语言精粹笔记"
-date:   2017-05-12 11:40:18 +0800
-categories: JavaScript
-tags: JavaScript
+title:  "Unity 入门精要"
+date: 2022-05-12 11:40:18 +0800
+categories: C#
+tags: Unity
 ---
 
 * content
 {:toc}
 
-记录一下读这本书过程中自己还需要知道的细节。 这是海桅啊
+记录一下读这本书过程中自己还需要知道的细节。 这是海桅1212
 
 
 
@@ -27,6 +27,12 @@ tags: JavaScript
 /*
     var rm_a = /a*/.match(s)
 */
+```
+
+
+```c#
+	var ab = new GameObject();
+	ab.transform.position = new Vector3();
 ```
 
 ### 数字
