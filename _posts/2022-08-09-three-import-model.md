@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "test3"
-categories: Three.js
-tags:  Three.js WebGL
-author: HyG
+categories: Unity
+tags:  Unity
+author: Unity
 ---
 
 * content

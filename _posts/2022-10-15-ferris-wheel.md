@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "test6"
-categories: JavaScript
-tags:  Animation
+categories: Unity
+tags:  Unity
 author: HyG
 ---
 
