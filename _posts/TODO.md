@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "日记2023-11-03"
+date: 2023-11-03 13:40:18 +0800
+categories: Unity
+tags: Unity
+---
+
 
 # 1.GC泛滥的地方,   tolua相关。
 ##	setparent 整改
